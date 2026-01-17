@@ -1,0 +1,47 @@
+{
+  "name": "betterloggingwithecho",
+  "version": "2.0.0",
+  "description": "Echo. Better logging.",
+  "keywords": [],
+  "homepage": "https://github.com/10xly/betterloggingwithecho#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/betterloggingwithecho/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/betterloggingwithecho.git"
+  },
+  "license": "UNLICENSED",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@10xly/global": "^1.0.0",
+    "@extra-array/head": "^2.10.19",
+    "@extra-array/length": "^2.10.19",
+    "@is-(unknown)/is-string": "^1.0.0",
+    "@lowercase-letters/g": "^3.0.0",
+    "@lowercase-letters/l": "^3.0.0",
+    "@lowercase-letters/o": "^3.0.0",
+    "@rightpad/concat": "^1.0.0",
+    "array-get-member": "^1.0.3",
+    "empty-string": "^1.1.1",
+    "es-logical-not-operator": "^1.0.0",
+    "fizzbuzz-enterprise": "^1.0.0",
+    "functions-have-names": "^1.2.3",
+    "is-eq-one": "^1.1.0",
+    "isarray": "^2.0.5",
+    "logtoconsole": "^1.0.7",
+    "name-of-function": "^1.0.0",
+    "space-string": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "proxyquire": "^2.1.3",
+    "sinon": "^21.0.1"
+  }
+}
